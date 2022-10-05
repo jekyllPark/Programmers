@@ -15,6 +15,7 @@ public class 평균구하기 {
     public static void main(String[] args) {
         평균구하기 test = new 평균구하기();
         long solution = test.solution(3);
+        /*1*/
         System.out.println("solution = " + solution);
     }
 }
