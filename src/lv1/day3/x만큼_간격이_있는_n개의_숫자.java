@@ -1,4 +1,4 @@
-package lv1.day1.day3;
+package lv1.day3;
 
 public class x만큼_간격이_있는_n개의_숫자 {
     /**

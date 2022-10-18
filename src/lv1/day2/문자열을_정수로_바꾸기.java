@@ -1,4 +1,4 @@
-package lv1.day1.day2;
+package lv1.day2;
 
 public class 문자열을_정수로_바꾸기 {
     /**

@@ -1,4 +1,4 @@
-package lv1.day1.day2;
+package lv1.day2;
 
 public class 자연수_뒤집어_배열로_만들기 {
 

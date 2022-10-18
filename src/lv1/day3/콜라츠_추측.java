@@ -1,4 +1,4 @@
-package lv1.day1.day3;
+package lv1.day3;
 
 public class 콜라츠_추측 {
     /**
