@@ -1,6 +1,7 @@
 package lv0.day1;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class 약수_구하기 {
     /*
@@ -23,8 +24,6 @@ public class 약수_구하기 {
     public static void main(String[] args) {
         약수_구하기 약수_구하기 = new 약수_구하기();
         int[] solution = 약수_구하기.solution(29);
-        for (int s : solution) {
-            System.out.println("s = " + s);
-        }
+        System.out.println(Arrays.toString(solution));
     }
 }
